@@ -1,0 +1,11 @@
+{
+	"maxplayers" : 2000,
+	"name" : "Freedom RolePlay|Colorado|freedomrp.net", 
+	"gamemode" : "roleplay", 
+	"stream-distance" : 500.0,
+	"announce" : false,
+	"language" : "ru",
+	"bind" : "127.0.0.1",
+	"csharp" : "disabled",
+	"port": 22005,
+}
